@@ -14,7 +14,7 @@
   "author": "safv12",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "babel-preset-stage-1": "^6.1.18",
     "body-parser": "^1.13.3",
     "express": "^4.13.3",
