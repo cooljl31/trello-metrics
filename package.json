@@ -23,7 +23,7 @@
     "morgan": "^1.6.1",
     "mysql": "^2.9.0",
     "node-trello": "^1.1.2",
-    "react": "^0.14.3",
+    "react": "^15.0.0",
     "react-dnd": "^2.1.2",
     "react-dnd-html5-backend": "^2.1.2",
     "react-dom": "^0.14.3",
@@ -31,7 +31,7 @@
     "react-router": "^2.0.0",
     "redux": "^3.0.4",
     "sequelize": "^3.6.0",
-    "sqlite3": "^3.1.4"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
